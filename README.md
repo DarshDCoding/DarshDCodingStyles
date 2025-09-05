@@ -1,6 +1,6 @@
 # Darsh D. Coding Styles 
 
-[![jsDelivr](https://cdn.jsdelivr.net/gh/DarshDCoding/DarshDCodingStyles/coffee-style.css)](https://cdn.jsdelivr.net/gh/DarshDCoding/DarshDCodingStyles/coffee-style.css)
+![Logo](./assets/Darsh%20D.%20Coding%20Styles%20Logo.jpeg)
 
 A lightweight collection of reusable CSS utilities and components that you can drop into any project using a simple CDN link.  
 
