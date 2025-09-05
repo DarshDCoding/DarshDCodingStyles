@@ -1,34 +1,23 @@
-# Darsh D. Coding CSS Styles
+# Darsh D. Coding Styles 
 
+[![jsDelivr](https://cdn.jsdelivr.net/gh/DarshDCoding/DarshDCodingStyles/coffee-style.css)](https://cdn.jsdelivr.net/gh/DarshDCoding/DarshDCodingStyles/coffee-style.css)
 
+A lightweight collection of reusable CSS utilities and components that you can drop into any project using a simple CDN link.  
 
-## 🚀 Usage
+---
 
-You can include the stylesheet in your HTML using **jsDelivr CDN**:
+## 🚀 Quick Start  
+
+Include the stylesheet in the `<head>` of your HTML file:  
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DarshDCoding/DarshDCodingStyles/coffee-style.css">
+```
 
-Or lock it to a specific branch/tag/commit (safer for production):
-
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DarshDCoding/DarshDCodingStyles@main/coffee-style.css">
-
-
-📄 Example
-Here’s a minimal HTML example using Coffee Style:
+Add follwing elment inside the `<body>` of your HTML file:
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Coffee Style Demo</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DarshDCoding/DarshDCodingStyles/coffee-style.css">
-</head>
-<body>
-<a href="https://buymeacoffee.com/darshdcoding" class="coffee-jump"><?xml version="1.0" encoding="utf-8"?>
+<a href="{Your_Buy_Me_Coffee_link}" class="coffee-jump"><?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" id="_x31__5_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve" width="50">
 <rect id="_x39__2_" y="0" style="fill:#FFDD00;" width="1000" height="1000"/>
@@ -2960,7 +2949,4 @@ Here’s a minimal HTML example using Coffee Style:
 	Buy me a coffee
 </span>
 </a>
-</body>
-</html>
-
-💡 Feel free to fork this repo and customize your own styles!
+```
