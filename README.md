@@ -8,13 +8,15 @@ A lightweight collection of reusable CSS utilities and components that you can d
 
 ## 🚀 Quick Start  
 
-Include the stylesheet in the `<head>` of your HTML file:  
+# Add buy me a coffee button to your site in 3 easy steps:
+
+1. Include the stylesheet in the `<head>` of your HTML file:  
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DarshDCoding/DarshDCodingStyles/coffee-style.css">
 ```
 
-Add follwing elment inside the `<body>` of your HTML file:
+2. Add follwing elment inside the `<body>` of your HTML file:
 
 ```html
 <a href="{Your_Buy_Me_Coffee_link}" class="coffee-jump"><?xml version="1.0" encoding="utf-8"?>
@@ -2950,3 +2952,4 @@ Add follwing elment inside the `<body>` of your HTML file:
 </span>
 </a>
 ```
+3. Replace the value `href` in `<a>` to your Buy me a coffee account's url.
